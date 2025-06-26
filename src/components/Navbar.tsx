@@ -23,7 +23,8 @@ const styles = {
     fontWeight: "bold",
     color: "#a8a8a8",
     letterSpacing: "1px",
-    fontFamily: "Inter, Montserrat, sans-serif",
+    fontFamily: "'JetBrains Mono', monospace",
+    fontStyle: "italic",
   },
 };
 
