@@ -4,7 +4,7 @@ A responsive, real-time cryptocurrency price tracker built with React, TypeScrip
 
 ## 📍 Live Demo
 
-[View Live App](https://your-vercel-url.vercel.app)
+[View Live App](https://crypto-price-tracker-lyart.vercel.app/)
 
 ---
 
