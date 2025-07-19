@@ -2,9 +2,7 @@
 
 A responsive, real-time cryptocurrency price tracker built with React, TypeScript, and Vite. The app features search, sorting, pagination, and live price updates from the CoinGecko API. Designed with a clean UI and modern development stack.
 
-## 📍 Live Demo
-
-[View Live App](https://crypto-price-tracker-lyart.vercel.app/)
+[Watch Live App](https://crypto-price-tracker-lyart.vercel.app/)
 
 ---
 
