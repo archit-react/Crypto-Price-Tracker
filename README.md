@@ -6,7 +6,7 @@ A responsive, real-time cryptocurrency price tracker built with React, TypeScrip
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React**
 - **TypeScript**
@@ -17,7 +17,7 @@ A responsive, real-time cryptocurrency price tracker built with React, TypeScrip
 
 ---
 
-## 🚀 Features
+## Features
 
 - Real-time data from CoinGecko
 - Pagination (limited to top 50 coins, 5 per page)
@@ -30,7 +30,7 @@ A responsive, real-time cryptocurrency price tracker built with React, TypeScrip
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -48,7 +48,7 @@ npm run dev
 
 ---
 
-## 🖌️ Customization Highlights
+## Customization Highlights
 
 - Font: `JetBrains Mono`, bold + italic
 - Background: Muted dark gray (`#1e1e1e` or lighter shade)
